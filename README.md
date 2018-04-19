@@ -1,13 +1,11 @@
 BarcodeGenerator - EAN-8  for now... </br>
 This utility will generate barcode labels in A4 page which you can print on any A4 sticky/paper.
 
-use 'input.csv' as per following format for your input to generate bulk barcodes.
+Use 'input.csv' as per following format for your input to generate bulk barcodes.
+Example input.csv file will have barcode, price, count as following:
 
-barcode, price, count
 
-example input.csv file:
-
-12345, 12.50, 7 </br>
+12345, 12.50, 7
 45878, 45, 8
 
 
